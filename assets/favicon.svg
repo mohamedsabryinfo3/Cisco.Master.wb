@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="IOS Master">
+  <rect width="512" height="512" rx="112" fill="#0a0a09"/>
+  <g transform="translate(96 144) scale(16)" fill="none" stroke="#10b981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="2" y="14" width="20" height="7" rx="2"/>
+    <path d="M6 14V9a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v5"/>
+    <circle cx="17.5" cy="17.5" r="1"/>
+    <circle cx="6.5" cy="17.5" r="1"/>
+  </g>
+</svg>
